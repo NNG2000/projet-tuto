@@ -1,3 +1,5 @@
-# tutoriel
+# tutoriel GitHub
 ceci est un tutoriel
-Let us make a change inside a file of the new branch and see if we can commit it in the master branch
+Nous allons étudier les différentes fonctionnalités de Github
+comment un commit dans une branche peu affeccter les autres
+comment mettre à jour une branche en arriére sans affeccter son travail
